@@ -1,6 +1,6 @@
 ### Howdy 👋
 
-I'm Dunny, a Full Stack Developer with hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages. 
+I'm 'Dunny', a Full Stack Developer with hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages. 
 
 👀 I’m interested in Python, JavaScript, Html5, Css3, Bootstrap, React, Sass, and much more...
 
