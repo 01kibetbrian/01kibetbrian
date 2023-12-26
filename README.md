@@ -5,5 +5,3 @@ I'm Kibet, a Full Stack Developer with hands-on experience designing, developing
 👀 I’m interested in Python, JavaScript, HTML5, CSS3, Typescript, React, and much more...
 
 📫 How to reach me: dunnybyegon@gmail.com
-
-I'm always passionate and ready to learn.
