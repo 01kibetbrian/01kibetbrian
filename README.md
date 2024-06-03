@@ -1,7 +1,7 @@
 ### Howdy 👋
 
-I'm Kibet, a Full Stack Developer with hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages. 
+I'm Kibet, I turn data into insights and build machine learning models.
 
-👀 I’m interested in Python, JavaScript, HTML5, CSS3, Typescript, React, and much more...
+Skills: Python, SQL, TensorFlow, PyTorch, Pandas, Numpy, Seaborn, Hadoop, Spark, Deep Learning.
 
-📫 How to reach me: dunnybyegon@gmail.com
+📫 Let's connect: [LinkedIn](https://linkedin.com/in/kibet-brian-1433b9214?)|[Twitter](https://x.com/etihadlad?s=09)
