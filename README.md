@@ -1,7 +1,7 @@
 ### Howdy 👋
 
-I'm Kibet, I turn build and automate data pipelines.
+I'm Kibet, I build robust software and automate data pipelines.
 
-Skills: Python, SQL, PySpark, Apache Airflow, Hadoop, Spark, Snowflake, MongoDB, AWS, dbt and more!
+[![My Skills](https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,tailwind,docker,express,mongodb,postgres,firebase,kafka,linux)](https://skillicons.dev)
 
-📫 Let's connect: [LinkedIn](https://linkedin.com/in/kibet-brian-1433b9214?) | [Email](mailto:its.kibetbrian@gmail.com)
+
