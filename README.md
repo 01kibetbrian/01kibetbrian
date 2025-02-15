@@ -1,7 +1,7 @@
 ### Howdy 👋
 
-I'm Kibet, I turn data into insights and build machine learning models.
+I'm Kibet, I turn build and automate data pipelines.
 
-Skills: Python, SQL, Keras, PyTorch, Pandas, Numpy, Matplotlib, Seaborn, Hadoop, Spark, NLP.
+Skills: Python, SQL, PySpark, Apache Airflow, Hadoop, Spark, Snowflake, MongoDB, AWS, dbt and more!
 
-📫 Let's connect: [LinkedIn](https://linkedin.com/in/kibet-brian-1433b9214?) | [Twitter](https://x.com/dunnybyegon)
+📫 Let's connect: [LinkedIn](https://linkedin.com/in/kibet-brian-1433b9214?) | [Email](mailto:its.kibetbrian@gmail.com)
