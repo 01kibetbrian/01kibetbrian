@@ -1,6 +1,6 @@
 ### Howdy 👋
 
-I'm Kibet, I build robust software and automate data pipelines.
+I’m Kibet — a Software Developer and Data Engineer creating robust applications and automating data pipelines to deliver scalable, data-driven solutions.
 
 <p align="center">
   <a href="https://skillicons.dev">
