@@ -1,6 +1,6 @@
 ### Howdy 👋
 
-I’m Kibet — a Software Developer and Data Engineer creating robust applications and automating data pipelines to deliver scalable, data-driven solutions.
+I’m Dunny — a Software Developer and Data Engineer creating robust applications and automating data pipelines to deliver scalable, data-driven solutions.
 
 <p align="center">
   <a href="https://skillicons.dev">
