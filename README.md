@@ -4,7 +4,7 @@ I’m Kibet — a Software Developer and Data Engineer creating robust applicati
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,react,nextjs,nodejs,tailwind,postgres,firebase,kafka,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=py,ts,golang,react,nextjs,nodejs,tailwind,postgres,firebase,kafka,docker,linux" />
   </a>
 </p>
 
